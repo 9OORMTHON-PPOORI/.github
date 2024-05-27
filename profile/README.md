@@ -1,4 +1,4 @@
-## Hi there 👋
+## 뿌리(Ppoori)
 
 <!--
 
@@ -10,3 +10,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+<img src="https://github.com/9OORMTHON-PPOORI/.github/assets/55044278/b520e104-058a-4644-bea9-c74d99105220">
