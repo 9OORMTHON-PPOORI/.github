@@ -11,6 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-<img src="https://github.com/9OORMTHON-PPOORI/.github/assets/55044278/b520e104-058a-4644-bea9-c74d99105220">
 
-**구름톤 in JEJU 10기 카카오대표이사상(대상) 🥇**
+> **구름톤 in JEJU 10기 카카오대표이사상(대상) 🥇**
+
+<img src="https://github.com/9OORMTHON-PPOORI/.github/assets/55044278/a476f94f-27c8-4229-9b7b-b8952d17c8d2">
