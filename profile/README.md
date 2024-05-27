@@ -12,3 +12,5 @@
 -->
 
 <img src="https://github.com/9OORMTHON-PPOORI/.github/assets/55044278/b520e104-058a-4644-bea9-c74d99105220">
+
+**구름톤 in JEJU 10기 카카오대표이사상(대상) 🥇**
