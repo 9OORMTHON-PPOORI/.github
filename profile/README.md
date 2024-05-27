@@ -15,3 +15,7 @@
 > **구름톤 in JEJU 10기 카카오대표이사상(대상) 🥇**
 
 <img src="https://github.com/9OORMTHON-PPOORI/.github/assets/55044278/a476f94f-27c8-4229-9b7b-b8952d17c8d2">
+
+<img src="https://github.com/9OORMTHON-PPOORI/.github/assets/55044278/6cb97715-4f3f-4b48-b2f9-be472f9f7db3">
+
+<img src="https://github.com/9OORMTHON-PPOORI/.github/assets/55044278/904a5489-bc77-4128-b3d4-e066fdf4a9cd">
