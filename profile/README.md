@@ -25,5 +25,4 @@
 
 <br>
 
-[<img width="120" alt="image" src="https://github.com/9OORMTHON-PPOORI/.github/assets/55044278/422ed2c1-9c8b-4a8f-b77e-1b2b4d45132f">](https://9oormthon.goorm.io/e297a8bc-e157-40e1-8816-888afc98251b)
-
+구름톤 전시관에서 [뿌리](https://9oormthon.goorm.io/83182701-089a-4441-8589-c072b4102fe6)를 확인해보세요! 😆
