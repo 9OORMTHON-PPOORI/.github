@@ -22,3 +22,9 @@
 | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 기획자 | 디자이너 | 프론트엔드 | 프론트엔드 | 백엔드 |
 | 홍채원 | 정현지 | 임동기 | 신주영 | 임재영 |
+
+<br>
+
+[<img width="100" alt="kakao" src="https://github.com/9OORMTHON-PPOORI/.github/assets/55044278/6f6292b0-deae-40a3-a8cb-0673c874843d">](https://9oormthon.goorm.io/e297a8bc-e157-40e1-8816-888afc98251b)
+
+👆🏻👆🏻 구름톤 전시관 바로가기 
